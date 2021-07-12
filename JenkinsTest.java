@@ -6,6 +6,7 @@ public class JenkinsTest {
 		String s = "This project is created for Jenkins Practise";
 		System.out.println(s);
 		System.out.println("Second Commit");
+		System.out.println("Third Commit");
 	}
 
 }
