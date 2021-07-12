@@ -7,6 +7,7 @@ public class JenkinsTest {
 		System.out.println(s);
 		System.out.println("Second Commit");
 		System.out.println("Third Commit");
+		System.out.println("Fourth Commit");
 	}
 
 }
